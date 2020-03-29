@@ -1,4 +1,4 @@
-# custom_slider
+# animated_login
 
 A new Flutter application.
 
